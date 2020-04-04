@@ -1,0 +1,24 @@
+{
+    "name": "gauralab/laravel-uuid-model",
+    "description": "Eloquent model with uuid as primary key",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Ivan Beloshabski",
+            "email": "ivan@gauralab.com",
+            "homepage": "https://gauralab.com/opensource"
+        }
+    ],
+    "require": {
+        "php": "^7.2.5",
+        "illuminate/database": "^7.3",
+        "ramsey/uuid": "^4.0"
+    },
+    "require-dev": {},
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Gauralab\\Laravel\\Models\\": "src/"
+        }
+    }
+}
