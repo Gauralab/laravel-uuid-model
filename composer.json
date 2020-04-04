@@ -2,6 +2,7 @@
     "name": "gauralab/laravel-uuid-model",
     "description": "Eloquent model with uuid as primary key",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Ivan Beloshabski",
